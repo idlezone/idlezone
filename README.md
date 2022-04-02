@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @idlezone
+- 👀 I’m interested in crypto
+- 🌱 I’m currently learning rust
